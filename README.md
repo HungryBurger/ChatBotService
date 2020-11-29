@@ -5,10 +5,10 @@ Chat bot webservice
 ## Introduction
 
 ### Member
-``` sdfdsf ```
+
 
 ### Project Information
-
+Chat bot service using dialog flow
 
 ## Architecture(Tech)
 
