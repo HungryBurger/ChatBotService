@@ -1,14 +1,5 @@
-## Introduction
-
-### Member
-
-
-### Project Information
-Chat bot service using dialog flow
+# Project Information
+Pizza order web service
 
 ## Architecture(Tech)
-
-
-## UML
-
-## Demo Image
+React + SpringBoot + JPA
